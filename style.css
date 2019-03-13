@@ -66,9 +66,15 @@ ul {
   color: white;
   font-size: 140%;
 }
-.ul a:link{
+ul a:link{
   color: white;
 }
-.ul a:visited{
+ul a:visited{
   color: white;
+}
+
+.zooplus {
+  position: fixed;
+  bottom: 0;
+  left: 0;
 }
