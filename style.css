@@ -1,7 +1,9 @@
 body{
+  background-color: green;
   background-image: url("hond.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
   font-family: helvetica;
 }
 .relatieven{
